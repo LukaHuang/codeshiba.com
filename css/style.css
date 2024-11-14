@@ -11649,7 +11649,7 @@ figure.highlight .section {
 #post-page div[data-type="archives"] {
   display: none;
 }
-#post-page div[data-type="recent-posts"] {
+#post-page div[data-type="categories"] {
   display: none;
 }
 .widget .categories {
