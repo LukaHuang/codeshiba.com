@@ -11053,47 +11053,6 @@ a.article-nav-next span {
 #mc_embed_signup .nowrap {
   white-space: nowrap;
 }
-#mc_embed_signup .mc-field-group {
-  clear: left;
-  position: relative;
-  width: 96%;
-  padding-bottom: 3%;
-  min-height: 50px;
-}
-#mc_embed_signup .mc-field-group label {
-  display: block;
-  margin-bottom: 3px;
-}
-#mc_embed_signup .mc-field-group input {
-  display: block;
-  width: 100%;
-  padding: 8px 0;
-  text-indent: 2%;
-}
-#mc_embed_signup .mc-field-group select {
-  display: inline-block;
-  width: 99%;
-  padding: 5px 0;
-  margin-bottom: 2px;
-}
-#mc_embed_signup .mc-field-group.input-group ul {
-  margin: 0;
-  padding: 5px 0;
-  list-style: none;
-}
-#mc_embed_signup .mc-field-group.input-group ul li {
-  display: block;
-  padding: 3px 0;
-  margin: 0;
-}
-#mc_embed_signup .mc-field-group.input-group label {
-  display: inline;
-}
-#mc_embed_signup .mc-field-group.input-group input {
-  display: inline;
-  width: auto;
-  border: none;
-}
 #mc_embed_signup .size1of2 {
   clear: none;
   float: left;
@@ -11158,55 +11117,8 @@ a.article-nav-next span {
   margin-right: 0.5em;
   font-weight: bold;
 }
-#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
-  display: inline-block;
-  margin: 2px 0 1em 0;
-  padding: 5px 10px;
-  background-color: rgba(255,255,255,0.85);
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-  font-size: 14px;
-  font-weight: normal;
-  z-index: 1;
-  color: #e85c41;
-}
-#mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
-  border: 2px solid #e85c41;
-}
 * html #mc_embed_signup .size1of2 {
   margin-right: 2%;
-}
-#mc_embed_signup .datefield,
-#mc_embed_signup .phonefield-us {
-  padding: 5px 0;
-}
-#mc_embed_signup .datefield input,
-#mc_embed_signup .phonefield-us input {
-  display: inline;
-  width: 60px;
-  margin: 0 2px;
-  letter-spacing: 1px;
-  text-align: center;
-  padding: 5px 0 2px 0;
-}
-#mc_embed_signup .phonefield-us .phonearea input,
-#mc_embed_signup .phonefield-us .phonedetail1 input {
-  width: 40px;
-}
-#mc_embed_signup .datefield .monthfield input,
-#mc_embed_signup .datefield .dayfield input {
-  width: 30px;
-}
-#mc_embed_signup .datefield label,
-#mc_embed_signup .phonefield-us label {
-  display: none;
-}
-#mc-embedded-subscribe {
-  clear: both;
-  width: auto;
-  display: block;
-  margin: 1em 0 1em 5%;
 }
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
