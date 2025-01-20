@@ -18,8 +18,8 @@
   
   <entry>
     <title>【 Python 教學 】enumerate 函式介紹</title>
-    <link href="https://codeshiba.com/2023/12/04/python/enumerate/"/>
-    <id>https://codeshiba.com/2023/12/04/python/enumerate/</id>
+    <link href="https://codeshiba.com/python/enumerate/"/>
+    <id>https://codeshiba.com/python/enumerate/</id>
     <published>2023-12-04T07:35:05.000Z</published>
     <updated>2024-02-02T13:56:13.070Z</updated>
     
@@ -42,8 +42,8 @@
   
   <entry>
     <title>【 Flask 教學 】如何在 Flask 設置和操作 Cookie</title>
-    <link href="https://codeshiba.com/2023/02/16/python-flask/06-flask-cookie/"/>
-    <id>https://codeshiba.com/2023/02/16/python-flask/06-flask-cookie/</id>
+    <link href="https://codeshiba.com/python-flask/06-flask-cookie/"/>
+    <id>https://codeshiba.com/python-flask/06-flask-cookie/</id>
     <published>2023-02-16T06:02:01.000Z</published>
     <updated>2024-02-02T14:19:22.129Z</updated>
     
@@ -70,8 +70,8 @@
   
   <entry>
     <title>【 Flask 教學 】 透過 URL 傳遞參數與透過表單傳遞</title>
-    <link href="https://codeshiba.com/2023/02/16/python-flask/07-dynanic_route_and_forms/"/>
-    <id>https://codeshiba.com/2023/02/16/python-flask/07-dynanic_route_and_forms/</id>
+    <link href="https://codeshiba.com/python-flask/07-dynanic_route_and_forms/"/>
+    <id>https://codeshiba.com/python-flask/07-dynanic_route_and_forms/</id>
     <published>2023-02-16T06:02:01.000Z</published>
     <updated>2023-11-27T04:40:14.263Z</updated>
     
@@ -93,8 +93,8 @@
   
   <entry>
     <title>【 Flask 教學 】用 Flask Blueprint 組織程式碼</title>
-    <link href="https://codeshiba.com/2023/02/16/python-flask/05-flask-blueprint/"/>
-    <id>https://codeshiba.com/2023/02/16/python-flask/05-flask-blueprint/</id>
+    <link href="https://codeshiba.com/python-flask/05-flask-blueprint/"/>
+    <id>https://codeshiba.com/python-flask/05-flask-blueprint/</id>
     <published>2023-02-16T05:05:01.000Z</published>
     <updated>2023-11-27T04:40:14.275Z</updated>
     
@@ -116,8 +116,8 @@
   
   <entry>
     <title>【 Flask 教學 】Flask Factory 介紹</title>
-    <link href="https://codeshiba.com/2023/02/15/python-flask/04-flask-factory/"/>
-    <id>https://codeshiba.com/2023/02/15/python-flask/04-flask-factory/</id>
+    <link href="https://codeshiba.com/python-flask/04-flask-factory/"/>
+    <id>https://codeshiba.com/python-flask/04-flask-factory/</id>
     <published>2023-02-15T08:16:08.000Z</published>
     <updated>2023-11-27T04:40:14.257Z</updated>
     
@@ -140,8 +140,8 @@
   
   <entry>
     <title>【 Flask 教學 】Flask SQLAlchemy | Python 與資料庫的橋樑</title>
-    <link href="https://codeshiba.com/2023/02/13/python-flask/03-relational-database/"/>
-    <id>https://codeshiba.com/2023/02/13/python-flask/03-relational-database/</id>
+    <link href="https://codeshiba.com/python-flask/03-relational-database/"/>
+    <id>https://codeshiba.com/python-flask/03-relational-database/</id>
     <published>2023-02-13T07:00:00.000Z</published>
     <updated>2024-02-02T14:19:22.151Z</updated>
     
@@ -165,8 +165,8 @@
   
   <entry>
     <title>饅頭計畫 #2 學員心得 (1) Phoebe</title>
-    <link href="https://codeshiba.com/2023/02/11/mc2-01-Phoebe/"/>
-    <id>https://codeshiba.com/2023/02/11/mc2-01-Phoebe/</id>
+    <link href="https://codeshiba.com/mc2-01-Phoebe/"/>
+    <id>https://codeshiba.com/mc2-01-Phoebe/</id>
     <published>2023-02-11T08:10:22.000Z</published>
     <updated>2023-11-27T23:42:25.909Z</updated>
     
@@ -186,8 +186,8 @@
   
   <entry>
     <title>【 Flask 教學 】五分鐘學會 Flask 中的 GET, POST, PUT, PATCH, DELETE</title>
-    <link href="https://codeshiba.com/2023/02/11/python-flask/02-routes/"/>
-    <id>https://codeshiba.com/2023/02/11/python-flask/02-routes/</id>
+    <link href="https://codeshiba.com/python-flask/02-routes/"/>
+    <id>https://codeshiba.com/python-flask/02-routes/</id>
     <published>2023-02-10T22:27:46.000Z</published>
     <updated>2023-11-27T04:40:14.256Z</updated>
     
@@ -210,8 +210,8 @@
   
   <entry>
     <title>饅頭計畫 #2 學員心得 (2) 慶慶</title>
-    <link href="https://codeshiba.com/2023/02/08/mc2-02-qing/"/>
-    <id>https://codeshiba.com/2023/02/08/mc2-02-qing/</id>
+    <link href="https://codeshiba.com/mc2-02-qing/"/>
+    <id>https://codeshiba.com/mc2-02-qing/</id>
     <published>2023-02-08T06:20:22.000Z</published>
     <updated>2023-11-27T23:42:25.953Z</updated>
     
@@ -231,8 +231,8 @@
   
   <entry>
     <title>饅頭計畫 #2 學員心得 (3) Eva</title>
-    <link href="https://codeshiba.com/2023/01/30/mc2-03-eva/"/>
-    <id>https://codeshiba.com/2023/01/30/mc2-03-eva/</id>
+    <link href="https://codeshiba.com/mc2-03-eva/"/>
+    <id>https://codeshiba.com/mc2-03-eva/</id>
     <published>2023-01-30T06:20:22.000Z</published>
     <updated>2023-11-27T23:42:25.922Z</updated>
     
@@ -252,8 +252,8 @@
   
   <entry>
     <title>饅頭計畫 #2 學員心得 (4) 鈺涵</title>
-    <link href="https://codeshiba.com/2023/01/29/mc2-04-yuha/"/>
-    <id>https://codeshiba.com/2023/01/29/mc2-04-yuha/</id>
+    <link href="https://codeshiba.com/mc2-04-yuha/"/>
+    <id>https://codeshiba.com/mc2-04-yuha/</id>
     <published>2023-01-29T05:20:22.000Z</published>
     <updated>2023-11-27T23:42:25.995Z</updated>
     
@@ -273,8 +273,8 @@
   
   <entry>
     <title>饅頭計畫 #2 學員心得 (5) Michael</title>
-    <link href="https://codeshiba.com/2023/01/28/mc2-05-michael/"/>
-    <id>https://codeshiba.com/2023/01/28/mc2-05-michael/</id>
+    <link href="https://codeshiba.com/mc2-05-michael/"/>
+    <id>https://codeshiba.com/mc2-05-michael/</id>
     <published>2023-01-28T04:30:22.000Z</published>
     <updated>2023-11-27T23:42:25.935Z</updated>
     
@@ -294,8 +294,8 @@
   
   <entry>
     <title>饅頭計畫 #2 學員心得 (6) Shawn</title>
-    <link href="https://codeshiba.com/2023/01/28/mc2-06-Shawn/"/>
-    <id>https://codeshiba.com/2023/01/28/mc2-06-Shawn/</id>
+    <link href="https://codeshiba.com/mc2-06-Shawn/"/>
+    <id>https://codeshiba.com/mc2-06-Shawn/</id>
     <published>2023-01-28T04:10:22.000Z</published>
     <updated>2023-11-27T23:42:25.909Z</updated>
     
@@ -315,8 +315,8 @@
   
   <entry>
     <title>饅頭計畫 #2 學員心得 (7) Lily</title>
-    <link href="https://codeshiba.com/2023/01/27/mc2-07-lily/"/>
-    <id>https://codeshiba.com/2023/01/27/mc2-07-lily/</id>
+    <link href="https://codeshiba.com/mc2-07-lily/"/>
+    <id>https://codeshiba.com/mc2-07-lily/</id>
     <published>2023-01-27T01:30:21.000Z</published>
     <updated>2023-11-27T23:42:25.935Z</updated>
     
@@ -336,8 +336,8 @@
   
   <entry>
     <title>【 Flask 教學 】Hello, Flask！五分鐘建立你的第一個 Flask 應用</title>
-    <link href="https://codeshiba.com/2021/11/29/python-flask/01-hello-flask/"/>
-    <id>https://codeshiba.com/2021/11/29/python-flask/01-hello-flask/</id>
+    <link href="https://codeshiba.com/python-flask/01-hello-flask/"/>
+    <id>https://codeshiba.com/python-flask/01-hello-flask/</id>
     <published>2021-11-28T22:27:46.000Z</published>
     <updated>2023-11-27T04:40:14.263Z</updated>
     
@@ -360,8 +360,8 @@
   
   <entry>
     <title>【 Python 冷知識 】你知道 PyPI 怎麼唸嘛？</title>
-    <link href="https://codeshiba.com/2021/11/29/python/03-how-to-pronounce-pypi/"/>
-    <id>https://codeshiba.com/2021/11/29/python/03-how-to-pronounce-pypi/</id>
+    <link href="https://codeshiba.com/python/03-how-to-pronounce-pypi/"/>
+    <id>https://codeshiba.com/python/03-how-to-pronounce-pypi/</id>
     <published>2021-11-28T18:30:56.000Z</published>
     <updated>2023-11-26T04:11:35.494Z</updated>
     
@@ -390,8 +390,8 @@
   
   <entry>
     <title>【 Python 教學 】什麼是 PyPI？跟 pip 又有什麼關係呢？</title>
-    <link href="https://codeshiba.com/2021/11/27/python/02-what-is-pypi/"/>
-    <id>https://codeshiba.com/2021/11/27/python/02-what-is-pypi/</id>
+    <link href="https://codeshiba.com/python/02-what-is-pypi/"/>
+    <id>https://codeshiba.com/python/02-what-is-pypi/</id>
     <published>2021-11-27T15:11:23.000Z</published>
     <updated>2023-11-26T04:11:35.494Z</updated>
     
@@ -414,8 +414,8 @@
   
   <entry>
     <title>【 Python 資料科學 】書籍推薦</title>
-    <link href="https://codeshiba.com/2021/11/25/python/01-data-science-book/"/>
-    <id>https://codeshiba.com/2021/11/25/python/01-data-science-book/</id>
+    <link href="https://codeshiba.com/python/01-data-science-book/"/>
+    <id>https://codeshiba.com/python/01-data-science-book/</id>
     <published>2021-11-24T22:23:14.000Z</published>
     <updated>2023-11-26T04:11:35.494Z</updated>
     
@@ -438,8 +438,8 @@
   
   <entry>
     <title>饅頭計畫 #1 學員心得 (1) Joanne</title>
-    <link href="https://codeshiba.com/2020/09/06/mc1-01-joanne/"/>
-    <id>https://codeshiba.com/2020/09/06/mc1-01-joanne/</id>
+    <link href="https://codeshiba.com/mc1-01-joanne/"/>
+    <id>https://codeshiba.com/mc1-01-joanne/</id>
     <published>2020-09-06T04:00:35.000Z</published>
     <updated>2023-11-27T23:42:25.928Z</updated>
     
@@ -459,8 +459,8 @@
   
   <entry>
     <title>饅頭計畫 #1 學員心得 (2) GK</title>
-    <link href="https://codeshiba.com/2020/09/06/mc1-02-gk/"/>
-    <id>https://codeshiba.com/2020/09/06/mc1-02-gk/</id>
+    <link href="https://codeshiba.com/mc1-02-gk/"/>
+    <id>https://codeshiba.com/mc1-02-gk/</id>
     <published>2020-09-06T04:00:34.000Z</published>
     <updated>2023-11-27T23:42:25.995Z</updated>
     
